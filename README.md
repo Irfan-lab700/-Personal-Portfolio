@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website.
 The portfolio presents my background, skills, and work in a simple and professional format.
 
 ## Live Website
-http://irfan-lab700.github.io/-Personal-Portfolio
+https://personal-portfolio-bay-one.vercel.app/
 
 ## Overview
 I am a B.Tech Computer Science Engineering student at the Central University of Punjab, Bathinda.  
