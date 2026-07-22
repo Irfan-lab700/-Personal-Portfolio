@@ -6,14 +6,14 @@ menuIcon.onclick = () => {
 };
 
 const typed1 = new Typed('.multiple-roles',{
-  strings: ['Frontend Developer','Machine Learning Enthusiast','CS Student'],
+  strings: ['Full Stack Developer','AI Engineer','Data Science Enthusiast'],
   typeSpeed: 100,
   backSpeed:100,
   backdelay: 1000,
   loop:true
 });
 const typed2 = new Typed('.multiple-texts',{
-  strings: ['Frontend Developer','Machine Learning Enthusiast','CS Student'],
+  strings: ['Full Stack Developer','AI Engineer','Data Science Enthusiast'],
   typeSpeed: 100,
   backSpeed:100,
   backdelay: 1000,
